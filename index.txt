@@ -1,0 +1,5 @@
+everything got uploaded. now see i just writing the text in this file but now i want that this text also shown up on github.
+i will just write three commands everythime i do changes in my code so it shows on github
+git add .
+git commit -m "commit"
+git push origin main --force 
